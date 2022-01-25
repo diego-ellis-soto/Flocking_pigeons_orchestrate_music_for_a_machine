@@ -14,11 +14,11 @@ Individual fish location, speed, distance from centroid
 
 Two different script perform music out of group level and individual fish data respectively.
 
-[1] Termite_individual_in_the_amking_john-3.ipynb
+[1] termite_collective_parameters_music.ipynd
 
 This first script loads individual lvl animal data (using termites as a example), and creates music out of termite locations and adjust the music speed to the termite velocity. Up to three keys can be played at once by animals (identified through 3 positions of k-mean clustering of the group of animals)
 
-[2] Termite_collective_rotation_polarization_mapping-Copy1.ipynb
+[2] termite_individual_lvl_data_music.ipynd
 
 This second script creates a single note out of the values of polarization and rotation of an animal group at a given time.
 
